@@ -14,3 +14,5 @@
 -- +------+-----------------------------------+
 
 SELECT year, name FROM teams;
+.mode columns
+.headers on
